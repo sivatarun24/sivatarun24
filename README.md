@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sivatarun24 (call me as Tarun)
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine learning modules
-- 💞️ I’m looking to collaborate on any Data Science Projects. If anyone interested can contact me
+- 💞️ I’m looking to collaborate on any Machine Learning Projects. If anyone interested can contact me
 - 📫 Contact: E-Mail: sivatarunreddy00@gmail.com
-- 📞 Contact Number: 7093931443
-- 👉 Linked In: https://www.linkedin.com/in/siva-tarun-reddy-ambala-a0a291170/
+- 📞 Contact Number: +91 7093931443/ +1 7203510925
+- 👉 Linked In: https://www.linkedin.com/in/siva-tarun/
 
 <!---
 sivatarun24/sivatarun24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
