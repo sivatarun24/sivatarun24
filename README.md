@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sivatarun24 (call me as Tarun)
+- 👋 Hi, I’m Ambala Siva Tarun Reddy (call me as Tarun)
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Machine learning modules
 - 💞️ I’m looking to collaborate on any Machine Learning Projects. If anyone interested can contact me
