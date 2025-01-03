@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ambala Siva Tarun Reddy (call me Tarun)
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently pursuing my Masters in Computer Science from CU Boulder
-- 💞️ I’m looking to collaborate on any Machine Learning Projects. anyone interested can DM me
+- 💞️ I’m looking to collaborate on Machine Learning Projects, Anyone interested can DM me
 - 📫 Contact: E-Mail: sivatarunreddy00@gmail.com
 - 👉 Linked In: https://www.linkedin.com/in/siva-tarun/
 
